@@ -17,10 +17,6 @@
         You can contact me by E-Mail:<br>
         <a href="mailto:kallup-dev@web.de">kallup-dev@web.de</a>
       </td>
-      <td style="padding-left:10px;" valign="top">
-<script type="text/javascript" src="https://www.counters-free.net/count/c6i8"></script><br>
- <a href='https://www.symptoma.es/'>diagnóstico online</a> <script type='text/javascript' src='https://www.whomania.com/ctr?id=e5ef297a15a5d8fe71c4dfa890f554ad7b9d1adb'></script>
-      </td>
     </tr></table>
     <hr>
       <table>
