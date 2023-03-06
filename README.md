@@ -3,7 +3,7 @@
 <table border="3">
 <tr>
   <td><img src="img/mietz.png"></img></td>
-  <td style="padding:10px; font-size:12pt" valign="top">
+  <td style="padding:10px; font-size:12pt" valign="top" width="100%">
     <h1>Mietz 0.0.1</h1>
     (c) 2023 by Jens Kallup - paule32<br>
     all rights reserved.
