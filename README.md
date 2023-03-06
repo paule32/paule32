@@ -2,7 +2,7 @@
 ---
 <table border="3">
 <tr>
-  <td><img src="lib/mietz.png"></img></td>
+  <td><img src="img/mietz.png"></img></td>
   <td style="padding:10px; font-size:12pt" valign="top">
     <h1>Mietz 0.0.1</h1>
     (c) 2023 by Jens Kallup - paule32<br>
@@ -32,6 +32,6 @@
   </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td><tr>
-<tr><td colspan="2"><img src="lib/logo2.png" height="194"></img></td><tr>
+<tr><td colspan="2"><img src="img/logo2.png" height="194"></img></td><tr>
 </table>
 ---
