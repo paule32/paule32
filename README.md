@@ -4,7 +4,7 @@
   <td><img src="img/mietz.png"></img></td>
   <td style="padding:10px; font-size:12pt" valign="top">
     <h1>Mietz 0.0.1</h1>
-    (c) 2023 by Jens Kallup - paule32<br>
+    (c) paule32<br>
     all rights reserved.<br><br>
     <b>non-profit Development</b>
   </td>
@@ -14,19 +14,11 @@
       <td style="padding-right:10px;" valign="top">
         <h3>Information's about me:</h3>
         You can contact me by E-Mail:<br>
-        <a href="mailto:kallup-dev@web.de">kallup-dev@web.de</a>
+        <a href="mailto:paule32.jk@gmail.com">paule32.jk@gmail.com</a>
       </td>
     </tr></table>
-    <hr>
-      <table>
-      <tr><td width="84">Birthday: </td><td>08.02.1979</td></tr>
-      <tr><td>Hobby: </td><td>programming</td></tr>
-      <tr><td>Sex: </td><td>male</td></tr>
-      </table>
-    <hr>
   </td>
 </tr>
 <tr><td colspan="2">&nbsp;</td><tr>
-<tr><td colspan="2"><img src="img/logo2.png" height="194"></img></td><tr>
 </table>
 ---
