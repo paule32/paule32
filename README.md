@@ -21,9 +21,8 @@
 </tr>
 <tr>
   <td>
-    <img src="https://github.com/paule32/HelpNDoc/src/img/SPD.png" />
+    <img src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
   </td>
 </tr>
-<tr><td colspan="2">&nbsp;</td><tr>
 </table>
 ---
