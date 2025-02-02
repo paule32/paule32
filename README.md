@@ -1,7 +1,7 @@
 # Welcome to my develop repro- site !
 <table border="3">
 <tr>
-  <td>
+  <td style="width:400px;">
     <img width="84" src="img/mietz.png"></img>
   </td>
   <td style="padding:10px; font-size:12pt" valign="top">
