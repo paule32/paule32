@@ -16,12 +16,13 @@
         You can contact me by E-Mail:<br>
         <a href="mailto:paule32.jk@gmail.com">paule32.jk@gmail.com</a>
       </td>
-    </tr></table>
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
+      </td>
+    </tr>
+    </table>
   </td>
 </tr>
 </table>
