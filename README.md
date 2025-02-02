@@ -19,7 +19,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
+        <img width="50%" height="50%" src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
       </td>
     </tr>
     </table>
