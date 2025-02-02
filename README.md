@@ -1,8 +1,8 @@
 # Welcome to my develop repro- site !
 <table border="3">
 <tr>
-  <td width="300px">
-    <img src="img/mietz.png"></img>
+  <td>
+    <img width="84" src="img/mietz.png"></img>
   </td>
   <td style="padding:10px; font-size:12pt" valign="top">
     <h1>Mietz 0.0.1</h1>
