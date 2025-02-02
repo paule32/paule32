@@ -19,6 +19,11 @@
     </tr></table>
   </td>
 </tr>
+<tr>
+  <td>
+    <img src="https://github.com/paule32/HelpNDoc/src/img/SPD.png" />
+  </td>
+</tr>
 <tr><td colspan="2">&nbsp;</td><tr>
 </table>
 ---
