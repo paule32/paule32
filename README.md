@@ -2,7 +2,7 @@
 <table border="3">
 <tr>
   <td>
-    <img width="200" src="img/mietz.png"></img>
+    <img width="180" src="img/mietz.png"></img>
   </td>
   <td style="padding:10px; font-size:12pt" valign="top">
     <h1>Mietz 0.0.1</h1>
@@ -19,12 +19,12 @@
         <a href="mailto:paule32.jk@gmail.com">paule32.jk@gmail.com</a>
       </td>
     </tr>
-    <tr>
-      <td>
-        <img width="50%" height="50%" src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
-      </td>
-    </tr>
     </table>
+  </td>
+</tr>
+<tr>
+  <td colspan="2">
+    <img width="50%" height="50%" src="https://github.com/paule32/HelpNDocTools/blob/main/src/img/SPD.png"></img>
   </td>
 </tr>
 </table>
