@@ -18,8 +18,13 @@
         You can contact me by E-Mail:<br>
         <a href="mailto:paule32.jk@gmail.com">paule32.jk@gmail.com</a>
       </td>
+    </tr>>
+    <tr>
+      <td>
+        <img src="img/whoisthatboy.png"/>
+      </td>
     </tr>
-    </table>
+  </table>
   </td>
 </tr>
 <tr>
