@@ -33,5 +33,10 @@
   <td colspan="2">
     <img width="79%" height="79%" src="img/SPD.png"/>
   </td>
+  <tr>
+  <td>
+  <img src="img/frueh.png"/>
+  </td>
+  </tr>
 </tr>
 </table>
