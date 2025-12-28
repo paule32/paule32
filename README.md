@@ -23,7 +23,7 @@
     </tr>>
     <tr>
       <td>
-        <img src="img/2025.png"/>
+        <img src="img/moin.jpg"/>
       </td>
     </tr>
   </table>
